@@ -7,13 +7,13 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   viewBox="0 0 374.23438 24.203125"
+   viewBox="0 0 217.70313 23.328125"
    version="1.1"
    id="svg3883"
    sodipodi:docname="logo - Kopie.svg"
    inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
-   width="374.23438"
-   height="24.203125">
+   width="217.70312"
+   height="23.328125">
   <metadata
      id="metadata3887">
     <rdf:RDF>
@@ -39,8 +39,8 @@
      id="namedview3885"
      showgrid="false"
      inkscape:zoom="2.0229358"
-     inkscape:cx="210.39729"
-     inkscape:cy="-24.05962"
+     inkscape:cx="207.61604"
+     inkscape:cy="-24.512745"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="0"
@@ -73,12 +73,12 @@
   <text
      xml:space="preserve"
      style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ff4400;fill-opacity:1;stroke:none"
-     x="-0.15625"
-     y="23.75"
+     x="-2.9375"
+     y="23.328125"
      id="text3891"><tspan
        sodipodi:role="line"
        id="tspan3889"
-       x="-0.15625"
-       y="23.75"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:32px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#ff4400;fill-opacity:1">VERLAG PETRA KEHL</tspan></text>
+       x="-2.9375"
+       y="23.328125"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:32px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#ff4400;fill-opacity:1">PETRA KEHL</tspan></text>
 </svg>
