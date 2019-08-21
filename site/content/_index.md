@@ -1,20 +1,20 @@
 ---
-title: "Great coffee with a conscience"
-subtitle: Support sustainable farming while enjoying a cup
+title: "Verlag Petra Kehl"
+subtitle: Geschichte, christliche Spiritualität und historische Romane
 image: /img/home-jumbotron.jpg
 blurb:
-    heading: Why Kaldi?
-    text: "Kaldi is the coffee store for everyone who believes that great coffee shouldn't just taste good, it should do good too. We source all of our beans directly from small scale sustainable farmers and make sure part of the profits are reinvested in their communities."
+    heading: "Hier finden Sie"
+    text: "Hörbüchern für Kinder zahlreiche Titel aus den Themenbereichen Geschichte und christliche Spiritualität sowie historische Romane."
 intro:
-    heading: "What we offer"
-    text: "Kaldi is the ultimate spot for coffee lovers who want to learn about their java’s origin and support the farmers that grew it. We take coffee production, roasting and brewing seriously and we’re glad to pass that knowledge to anyone."
+    heading: "Wir bieten"
+    text: "."
 products:
-    - image: img/illustrations-coffee.svg
-      text: "We sell green and roasted coffee beans that are sourced directly from independent farmers and farm cooperatives. We’re proud to offer a variety of coffee beans grown with great care for the environment and local communities. Check our post or contact us directly for current availability."
+    - image: /img/die-spur-im-schnee.jpg
+      text: "Nach dem Tod ihres einzigen Kindes erhofft sich Frau Ava von Gott Trost. Da bringt am Weihnachtstag des Jahres 935 Graf Ulf seiner Frau eine besondere Jagdbeute mit: einen 14-jährigen Jungen, den er halb erfroren und völlig erschöpft im Dickicht gefunden hat. Es ist der junge Adlige Otto, der in Diensten des böhmischen Herzogs Wenzel gestanden und dessen besonderes Vertrauen besessen hat. Was er von seinem verstorbenen Herrn zu erzählen hat, wird das Leben des Grafen und seiner Frau verändern …"
     - image: /img/illustrations-coffee-gear.svg
-      text: "We offer a small, but carefully curated selection of brewing gear and tools for every taste and experience level. No matter if you roast your own beans or just bought your first french press, you’ll find a gadget to fall in love with in our shop."
+      text: "Als der Mönch Bonifatius und der Waisenjunge Kristoph an Weihnachten durch den Wald wandern, treffen sie auf eine Gruppe Männer, die eine Eiche verehren. Doch Bonifatius will ihnen beweisen, dass die heilige Eiche keinerlei Macht besitzt. Entschlossen hebt er die Axt seines kleinen Gefährten, um den Baum zu fällen … Und entdeckt eine wunderbare Tanne."
 values:
-    heading: Our values
-    text: Coffee is an amazing part of human culture but it has a dark side too – one of colonialism and mindless abuse of natural resources and human lives. We want to turn this around and return the coffee trade to the drink’s exhilarating, empowering and unifying nature.
+    heading: Unsere Werte
+    text: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 ---
 
